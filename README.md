@@ -8,9 +8,11 @@
 
 - 💬 Ask me about **Javascript - NodeJS - React - Redux - MySql - PostgreSQL - express**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/denisrold](https://www.linkedin.com/in/denisrold)
+
 - 📫 How to reach me **denisroldan@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/denisrold](https://www.linkedin.com/in/denisrold)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
