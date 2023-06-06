@@ -1,12 +1,13 @@
 <h3 align="center">Hola 👋, Soy Denis</h3>
 <h4 align="center">Un apasionado full stack developer graduado del bootcamp <b>Soy Henry</b> y estudiante en <b>Alura Latam - OracleOne.</b></h4>
-<p>Mi enfoque actual es hacia el desarrollo backend.</p>
-<p>Durante mi transcurso en Henry pude desarrollar proyectos tanto individuales como grupales, de los cuales me siento feliz del resultado y experimentar la metodologia agil-Scrum.</p>
-<p>Actualmente estoy trabajando con JavaScript, React, Redux, Node.js, Express, sequelize.</p> 
-<p>Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mis conocimientos como desarrollador FullStack, backend o frontend.</p>
+Durante mi transcurso en Henry pude desarrollar proyectos tanto individuales como grupales, de los cuales me siento feliz del resultado y experimentar la metodologia agil-Scrum.
+Mi enfoque es hacia el desarrollo backend.
+
+Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mis conocimientos como desarrollador FullStack, backend o frontend.
+Actualmente estoy trabajando con JavaScript, React, Redux, Node.js, Express, sequelize.
 
 - 🔭 he trabajado en el proyecto: [RaveMotion](https://github.com/denisrold/RaveMotion_back) y en el proyecto inegrador [PI Countries](https://github.com/denisrold/PI_Countries) 
-- 🌱 Actualmente estoy aprendiendo **Java - Spring Boot 3.0 - React Native - Next.js**
+- 🌱 Estoy aprendiendo **Java - Spring Boot 3.0 - React Native - Next.js**
 - 📄 Puedes conocer mis experiencas en [https://www.linkedin.com/in/denisrold](https://www.linkedin.com/in/denisrold)
 - 📫 ¿como puedes contactarme? **denisroldan@gmail.com**
 
