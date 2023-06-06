@@ -1,21 +1,16 @@
-<h1 align="center">Hi 👋, I'm Denis H. Roldan</h1>
-<h3 align="center">I am a passionate full stack developer with a focus on backend development.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denisrold&label=Profile%20views&color=0e75b6&style=flat" alt="denisrold" /> </p>
-
+<h2 align="center">Hi 👋, I'm Denis H. Roldan</h2>
+<h4 align="center">I am a passionate full stack developer with a focus on backend development.</h4>
 
 - 🔭 I have worked on this project [RaveMotion](https://github.com/denisrold/RaveMotion_back)
+- 🔭 I have worked on this integrator project [PI Countries](https://github.com/denisrold/PI_Countries)
 
 - 🌱 I’m currently learning **Java - Spring Boot 3.0 - React Native**
-
-- 🔭 I have worked on this integrator project [PI Countries](https://github.com/denisrold/PI_Countries)
 
 - 💬 Ask me about **Javascript - NodeJS - React - Redux - MySql - PostgreSQL - express**
 
 - 📫 How to reach me **denisroldan@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/denisrold](https://www.linkedin.com/in/denisrold)
-
 
 
 <h3 align="left">Languages and Tools:</h3>
