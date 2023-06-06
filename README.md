@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Denis H. Roldan</h2>
 <h4 align="center">I am a passionate full stack developer with a focus on backend development.</h4>
 
-- 🔭 I have worked on this project [RaveMotion](https://github.com/denisrold/RaveMotion_back)
-- 🔭 I have worked on this integrator project [PI Countries](https://github.com/denisrold/PI_Countries)
+- 🔭 I have worked on [RaveMotion](https://github.com/denisrold/RaveMotion_back) project.
+- 🔭 I have worked on [PI Countries](https://github.com/denisrold/PI_Countries) integrator project.
 
 - 🌱 I’m currently learning **Java - Spring Boot 3.0 - React Native**
 
