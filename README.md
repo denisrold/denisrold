@@ -2,7 +2,7 @@
 <h4 align="center">I am a passionate full stack developer with a focus on backend development.</h4>
 
 - 🔭 I have worked on [RaveMotion](https://github.com/denisrold/RaveMotion_back) project and [PI Countries](https://github.com/denisrold/PI_Countries) integrator project.
-- 🌱 I’m currently learning **Java - Spring Boot 3.0 - React Native**
+- 🌱 I’m currently learning **Java - Spring Boot 3.0 - React Native **
 - 💬 Ask me about **Javascript - NodeJS - React - Redux - MySql - PostgreSQL - express**
 - 📄 Know about my experiences [https://www.linkedin.com/in/denisrold](https://www.linkedin.com/in/denisrold)
 - 📫 How to reach me **denisroldan@gmail.com**
