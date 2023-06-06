@@ -1,7 +1,7 @@
 <h3 align="center">Hola 👋, Soy Denis</h3>
 <h4 align="center">Un apasionado full stack developer graduado del bootcamp <b>Soy Henry</b> y estudiante en <b>Alura Latam - OracleOne.</b></h4>
-Durante mi transcurso en Henry pude desarrollar proyectos tanto individuales como grupales, de los cuales me siento feliz del resultado y experimentar la metodologia agil-Scrum.
-Mi enfoque es hacia el desarrollo backend.
+  Durante mi transcurso en Henry pude desarrollar proyectos tanto individuales como grupales, de los cuales me siento feliz del aprendizaje experimentando la metodologia agil-Scrum.
+Mi enfoque actual es hacia el desarrollo backend.
 
 Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mis conocimientos como desarrollador FullStack, backend o frontend.
 Actualmente estoy trabajando con JavaScript, React, Redux, Node.js, Express, sequelize.
