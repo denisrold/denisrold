@@ -3,9 +3,7 @@
 
 - 🔭 I have worked on [RaveMotion](https://github.com/denisrold/RaveMotion_back) project.
 - 🔭 I have worked on [PI Countries](https://github.com/denisrold/PI_Countries) integrator project.
-<br/>
 - 🌱 I’m currently learning **Java - Spring Boot 3.0 - React Native**
-
 - 💬 Ask me about **Javascript - NodeJS - React - Redux - MySql - PostgreSQL - express**
 
 <br/>
