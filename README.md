@@ -5,7 +5,7 @@
 
 Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mis conocimientos como desarrollador FullStack, backend o frontend.
 
-Actualmente estoy trabajando con JavaScript, React, Redux, Node.js, Express, sequelize.
+Actualmente estoy trabajando con JavaScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.
 
 - 🔭 He trabajado en el proyecto: [RaveMotion](https://github.com/denisrold/RaveMotion_back) y en el proyecto integrador [PI Countries](https://github.com/denisrold/PI_Countries)
   
