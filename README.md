@@ -9,7 +9,7 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 
 Actualmente estoy trabajando con JavaScript, React, Redux, Node.js, Express, sequelize.
 
-- 🔭 He trabajado en el proyecto: [RaveMotion](https://github.com/denisrold/RaveMotion_back) y en el proyecto inegrador [PI Countries](https://github.com/denisrold/PI_Countries)
+- 🔭 He trabajado en el proyecto: [RaveMotion](https://github.com/denisrold/RaveMotion_back) y en el proyecto integrador [PI Countries](https://github.com/denisrold/PI_Countries)
   
 - 🔨 En construcción: [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api)  - RESTful API Java & Spring.
 
