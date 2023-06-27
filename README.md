@@ -9,8 +9,11 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 
 Actualmente estoy trabajando con JavaScript, React, Redux, Node.js, Express, sequelize.
 
-- 🔭 he trabajado en el proyecto: [RaveMotion](https://github.com/denisrold/RaveMotion_back) y en el proyecto inegrador [PI Countries](https://github.com/denisrold/PI_Countries) 
-- 🌱 Estoy aprendiendo **Java - Spring Boot 3.0 - React Native - TypeScript**
+- 🔭 he trabajado en el proyecto: [RaveMotion](https://github.com/denisrold/RaveMotion_back) y en el proyecto inegrador [PI Countries](https://github.com/denisrold/PI_Countries)
+  
+- 🔨🔨 En construcción: [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) RESTful API JAVA-SPRING.
+
+- 🌱 Estoy aprendiendo **Java - Spring Boot - React Native - TypeScript**
 - 📄 Puedes conocer mis experiencas en [https://www.linkedin.com/in/denisrold](https://www.linkedin.com/in/denisrold)
 - 📫 ¿como puedes contactarme? **denisroldan@gmail.com**
 
