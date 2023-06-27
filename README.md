@@ -15,8 +15,10 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 - 🔨 En construcción: [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api)  - RESTful API Java & Spring.
 
 - 🌱 Estoy aprendiendo **Java - Spring Boot - React Native - TypeScript**
-- 📄 Puedes conocer mis experiencas en [https://www.linkedin.com/in/denisrold](https://www.linkedin.com/in/denisrold)
-- 📫 ¿como puedes contactarme? **denisroldan@gmail.com**
+
+ 
+ Puedes conocer mis experiencas en [https://www.linkedin.com/in/denisrold](https://www.linkedin.com/in/denisrold)
+ ¿como puedes contactarme? **denisroldan.dev@gmail.com**
 
 
 <br/>
