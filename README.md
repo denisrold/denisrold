@@ -16,8 +16,8 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 
 - 🌱 Estoy aprendiendo **Java - Spring Boot - React Native - TypeScript**
 
- 
- <p>Puedes conocer mis experiencas en mi [LinkedIn](https://www.linkedin.com/in/denisrold)</p>
+ </br>
+ Puedes conocer mis experiencas en mi [LinkedIn](https://www.linkedin.com/in/denisrold).
  <p>¿como puedes contactarme? denisroldan.dev@gmail.com</p>
 
 
