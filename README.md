@@ -12,7 +12,7 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 
 - 🔭 He trabajado en el proyecto: [RaveMotion](https://github.com/denisrold/RaveMotion_back) y en el proyecto integrador [PI Countries](https://github.com/denisrold/PI_Countries)
   
-- 🔨 En construcción: [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api)  - RESTful API Java & Spring.
+- RESTful API: [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api)  -  Java & Spring.
 
 - 🌱 Estoy aprendiendo **React Native - TypeScript**
 
