@@ -22,7 +22,7 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 
  </br>
  Puedes conocer mis experiencas en mi <a href="https://www.linkedin.com/in/denisrold">LinkedIn</a>.
- <h3><a href="mailto:denisroldan.dev@gmail.com">Contactame</a></h3>
+ <h3><a href="mailto:denisroldan.dev@gmail.com">Contactame</a> denisroldan.dev@gmail.com </h3>
 
 
 <br/>
