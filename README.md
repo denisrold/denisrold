@@ -20,7 +20,7 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 <h4>🌱 Estoy aprendiendo **React Native - TypeScript**</h4>
 </br>
  </br>
- Puedes conocer mis experiencas en mi <a href="https://www.linkedin.com/in/denisrold">LinkedIn</a>.
+ Puedes conocer sobre mi en <a href="https://www.linkedin.com/in/denisrold">LinkedIn</a>.
  <h3><a href="mailto:denisroldan.dev@gmail.com">Contactame</a> denisroldan.dev@gmail.com </h3>
 
 
