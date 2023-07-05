@@ -2,13 +2,15 @@
 <h3 align="left">Hola 👋, Soy Denis</h3>
 <h4 align="left">Full Stack Developer</h4>
 
- Graduado en bootcamps: <b>Soy Henry</b> y <b>Alura Latam - OracleOne.</b></h4>
-
   En mis experiencias pude desarrollar proyectos tanto individuales como grupales, de los cuales me siento feliz del aprendizaje y de haber experimentando la metodologia agil-Scrum.
+
+<h4>Graduado en bootcamps: <b>Soy Henry</b> y <b>Alura Latam - OracleOne.</b></h4>
 
 Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mis conocimientos como desarrollador FullStack, backend o frontend.
 
 <b>Actualmente estoy trabajando con JavaScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.</b>
+
+<h3>PROYECTOS:</h3>
 
 - 🔭 He trabajado en el proyecto: [RaveMotion](https://github.com/denisrold/RaveMotion_back) y en el proyecto integrador [PI Countries](https://github.com/denisrold/PI_Countries)
   
