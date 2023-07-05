@@ -17,7 +17,8 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
   
 - [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API: Java & Spring.
 
-- 🌱 Estoy aprendiendo **React Native - TypeScript**
+
+<h4>🌱 Estoy aprendiendo **React Native - TypeScript**</h4>
 
  </br>
  Puedes conocer mis experiencas en mi <a href="https://www.linkedin.com/in/denisrold">LinkedIn</a>.
