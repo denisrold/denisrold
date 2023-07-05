@@ -15,7 +15,7 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 - [RaveMotion](https://github.com/denisrold/RaveMotion_back) - JS, Express, PostGreSQL, React, Redux, NodeJs , CSS.
 - [PI Countries](https://github.com/denisrold/PI_Countries) - JS, Express, PostGreSQL, React, Redux, NodeJs, CSS.
   
-- RESTful API: [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api)  -  Java & Spring.
+- [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API: Java & Spring.
 
 - 🌱 Estoy aprendiendo **React Native - TypeScript**
 
