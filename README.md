@@ -12,7 +12,8 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 
 <h3>PROYECTOS:</h3>
 
-- 🔭 He trabajado en el proyecto: [RaveMotion](https://github.com/denisrold/RaveMotion_back) y en el proyecto integrador [PI Countries](https://github.com/denisrold/PI_Countries)
+- [RaveMotion](https://github.com/denisrold/RaveMotion_back) - JS, Express, PostGreSQL, React, Redux, NodeJs , CSS.
+- [PI Countries](https://github.com/denisrold/PI_Countries) - JS, Express, PostGreSQL, React, Redux, NodeJs, CSS.
   
 - RESTful API: [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api)  -  Java & Spring.
 
