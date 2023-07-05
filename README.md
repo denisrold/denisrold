@@ -8,8 +8,6 @@
 
 Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mis conocimientos como desarrollador FullStack, backend o frontend.
 
-<b>Actualmente estoy trabajando con JavaScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.</b>
-
 <h3>PROYECTOS:</h3>
 
 - [RaveMotion](https://github.com/denisrold/RaveMotion_back) - JS, Express, PostGreSQL, React, Redux, NodeJs , CSS.
@@ -18,6 +16,8 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 - [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API: Java & Spring.
 
 
+<h4>Actualmente estoy trabajando con JavaScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.</h4>
+</br>
 <h4>🌱 Estoy aprendiendo **React Native - TypeScript**</h4>
 
  </br>
