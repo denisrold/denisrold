@@ -17,9 +17,8 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 
 
 <h4>Actualmente estoy trabajando con JavaScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.</h4>
-</br>
 <h4>🌱 Estoy aprendiendo **React Native - TypeScript**</h4>
-
+</br>
  </br>
  Puedes conocer mis experiencas en mi <a href="https://www.linkedin.com/in/denisrold">LinkedIn</a>.
  <h3><a href="mailto:denisroldan.dev@gmail.com">Contactame</a> denisroldan.dev@gmail.com </h3>
