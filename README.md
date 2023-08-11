@@ -10,7 +10,7 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 
 <h3>PROYECTOS:</h3>
 
-- [RaveMotion](https://github.com/denisrold/RaveMotion_back) - JS, Express, PostgreSQL, React, Redux, NodeJs , CSS.
+- [RaveMotion](https://github.com/denisrold/RaveMotion_back) - JS, Express, PostgreSQL, React, Redux, NodeJs , TailWind CSS.
 - [PI Countries](https://github.com/denisrold/PI_Countries) - JS, Express, PostgreSQL, React, Redux, NodeJs, CSS PURO.
   
 - [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API: Java & Spring.
