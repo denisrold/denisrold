@@ -14,9 +14,9 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 - [PI Countries](https://github.com/denisrold/PI_Countries) - JS, Express, PostgreSQL, React, Redux, NodeJs, CSS PURO.
   
 - [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API: Java & Spring.
+- [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App eManager: Backend: SpringBoot(Java) MicroServices, Front: React Typescript, Ionic. BDD: MySql.(GoogleCloud) 
 
-
-<h4>Actualmente estoy trabajando con JavaScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.</h4>
+<h4>Actualmente estoy trabajando con JavaScript,TypeScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.</h4>
 
 </br>
  </br>
