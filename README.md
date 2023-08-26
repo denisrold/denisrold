@@ -11,16 +11,16 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 <h3>PROYECTOS:</h3>
 
 - [RaveMotion](https://github.com/denisrold/RaveMotion_back) - FullStack App.</br>
-   <p>JS, Express, PostgreSQL, React, Redux, NodeJs , TailWind CSS. </p>
+  JS, Express, PostgreSQL, React, Redux, NodeJs , TailWind CSS.
   
 - [PI Countries](https://github.com/denisrold/PI_Countries) - FullStack App.</br>
-   <p>JS, Express, PostgreSQL, React, Redux, NodeJs, CSS PURO. </p>
+  JS, Express, PostgreSQL, React, Redux, NodeJs, CSS PURO.
   
 - [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API.</br>
-  <p>Backend: Java & Spring. </p>
+  Backend: Java & Spring.
 
 - [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.</br>
-  Backend: SpringBoot(Java) MicroServices, Dockers.</br>Frontend: React Typescript, Ionic.<br> BDD: MySql.(GoogleCloud)
+  SpringBoot(Java) MicroServices, Dockers. React Typescript, Ionic. MySQL(GoogleCloud).
 
 <h3>Actualmente estoy trabajando con JavaScript,TypeScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.</h3>
 
