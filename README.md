@@ -20,9 +20,9 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
   <p>Backend: Java & Spring. </p>
 
 - [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.</br>
-  <p> Backend: SpringBoot(Java) MicroServices, Dockers; Frontend: React Typescript, Ionic. BDD: MySql.(GoogleCloud) </p>
+  <p> <b>Backend:</b> SpringBoot(Java) MicroServices, Dockers;|| <b>Frontend:</b> React Typescript, Ionic.|| <b>BDD:</b> MySql.(GoogleCloud) </p>
 
-<h4>Actualmente estoy trabajando con JavaScript,TypeScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.</h4>
+<h3>Actualmente estoy trabajando con JavaScript,TypeScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.</h3>
 
 </br>
  </br>
