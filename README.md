@@ -10,11 +10,17 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 
 <h3>PROYECTOS:</h3>
 
-- [RaveMotion](https://github.com/denisrold/RaveMotion_back) - JS, Express, PostgreSQL, React, Redux, NodeJs , TailWind CSS.
-- [PI Countries](https://github.com/denisrold/PI_Countries) - JS, Express, PostgreSQL, React, Redux, NodeJs, CSS PURO.
+- [RaveMotion](https://github.com/denisrold/RaveMotion_back) - FullStack App.
+   JS, Express, PostgreSQL, React, Redux, NodeJs , TailWind CSS.
   
-- [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API: Java & Spring.
-- [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App eManager: Backend: SpringBoot(Java) MicroServices, Front: React Typescript, Ionic. BDD: MySql.(GoogleCloud) 
+- [PI Countries](https://github.com/denisrold/PI_Countries) - FullStack App.
+   JS, Express, PostgreSQL, React, Redux, NodeJs, CSS PURO.
+  
+- [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API.
+  Backend: Java & Spring.
+
+- [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.
+   Backend: SpringBoot(Java) MicroServices, Dockers; Frontend: React Typescript, Ionic. BDD: MySql.(GoogleCloud) 
 
 <h4>Actualmente estoy trabajando con JavaScript,TypeScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.</h4>
 
