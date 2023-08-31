@@ -9,9 +9,11 @@
 Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mis conocimientos como desarrollador FullStack, backend o frontend.
 
 <h3>PROYECTOS:</h3>
+
+
 - [Witter(Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.</br>
   JS ,NextJS , MongoDB ,Tailwind CSS.
-
+  
 - [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.</br>
   SpringBoot(Java) MicroServices, Dockers. React Typescript, Ionic. MySQL(GoogleCloud).
   
