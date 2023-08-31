@@ -11,7 +11,7 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 <h3>PROYECTOS:</h3>
 
 
-- [Witter(Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.</br>
+- [Witter (Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.</br>
   JS ,NextJS , MongoDB ,Tailwind CSS.
   
 - [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.</br>
