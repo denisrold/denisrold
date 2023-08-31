@@ -9,7 +9,12 @@
 Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mis conocimientos como desarrollador FullStack, backend o frontend.
 
 <h3>PROYECTOS:</h3>
+- [Witter(Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.</br>
+  JS ,NextJS , MongoDB ,Tailwind CSS.
 
+- [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.</br>
+  SpringBoot(Java) MicroServices, Dockers. React Typescript, Ionic. MySQL(GoogleCloud).
+  
 - [RaveMotion](https://github.com/denisrold/RaveMotion_back) - FullStack App.</br>
   JS, Express, PostgreSQL, React, Redux, NodeJs , TailWind CSS.
   
@@ -19,8 +24,6 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 - [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API.</br>
   Backend: Java & Spring.
 
-- [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.</br>
-  SpringBoot(Java) MicroServices, Dockers. React Typescript, Ionic. MySQL(GoogleCloud).
 
 <h3>Actualmente estoy trabajando con JavaScript,TypeScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.</h3>
 
