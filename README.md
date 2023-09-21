@@ -12,7 +12,7 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 
 
 - [Witter (Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.</br>
-  JS ,NextJS , MongoDB ,Tailwind CSS. // vercel
+  JS ,NextJS , MongoDB ,Tailwind CSS.
   
 - [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.</br>
   SpringBoot(Java) MicroServices, Dockers. React Typescript, Ionic. MySQL(GoogleCloud).
