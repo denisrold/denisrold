@@ -17,6 +17,9 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 - [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.</br>
   SpringBoot(Java) MicroServices, Dockers. React Typescript, Ionic. MySQL(GoogleCloud).
   
+- [Ugle-GoogleClone](https://github.com/denisrold/Ugle-GoogleClone) - FullStack App</br>
+  HTML, CSS , JS, Java-Spring, MySql.
+  
 - [RaveMotion](https://github.com/denisrold/RaveMotion_back) - FullStack App.</br>
   JS, Express, PostgreSQL, React, Redux, NodeJs , TailWind CSS.
   
