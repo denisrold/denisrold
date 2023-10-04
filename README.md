@@ -13,22 +13,22 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 - [e-Comm](https://github.com/denisrold/e-comm-withStripe) - FullStack App.
     JS ,NextJS , MongoDB ,Tailwind CSS. Stripe.
 - [Witter (Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.</br>
-  JS ,NextJS , MongoDB ,Tailwind CSS.
+    JS ,NextJS , MongoDB ,Tailwind CSS.
   
 - [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.</br>
-  SpringBoot(Java) MicroServices, Dockers. React Typescript, Ionic. MySQL(GoogleCloud).
+    SpringBoot(Java) MicroServices, Dockers. React Typescript, Ionic. MySQL(GoogleCloud).
   
 - [Ugle-GoogleClone](https://github.com/denisrold/Ugle-GoogleClone) - FullStack App</br>
-  HTML, CSS , JS, Java-Spring, MySql.
+    HTML, CSS , JS, Java-Spring, MySql.
   
 - [RaveMotion](https://github.com/denisrold/RaveMotion_back) - FullStack App.</br>
-  JS, Express, PostgreSQL, React, Redux, NodeJs , TailWind CSS.
+    JS, Express, PostgreSQL, React, Redux, NodeJs , TailWind CSS.
   
 - [PI Countries](https://github.com/denisrold/PI_Countries) - FullStack App.</br>
-  JS, Express, PostgreSQL, React, Redux, NodeJs, CSS PURO.
+    JS, Express, PostgreSQL, React, Redux, NodeJs, CSS PURO.
   
 - [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API.</br>
-  Backend: Java & Spring.
+    Backend: Java & Spring.
 
 
 <h3>Actualmente estoy trabajando con JavaScript,TypeScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.</h3>
