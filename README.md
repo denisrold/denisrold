@@ -11,7 +11,7 @@ Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mi
 <h3>PROYECTOS:</h3>
 
 - [e-Comm](https://github.com/denisrold/e-comm-withStripe) - FullStack App.
-    JS ,NextJS , MongoDB ,Tailwind CSS. Stripe.
+  JS ,NextJS , MongoDB ,Tailwind CSS. Stripe.
 - [Witter (Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.</br>
     JS ,NextJS , MongoDB ,Tailwind CSS.
   
