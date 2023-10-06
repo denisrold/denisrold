@@ -2,13 +2,14 @@
 <h3 align="left">Hola 👋, Soy Denis</h3>
 <h4 align="left">Full Stack Developer</h4>
 
-  En mis experiencias pude desarrollar proyectos tanto individuales como grupales, de los cuales me siento feliz del aprendizaje y de haber experimentando la metodologia agil-Scrum.
+Desarrollador de proyectos web,  participe en proyectos individuales como grupales con metodologia agil-Scrum.
 
 <h4>Graduado en bootcamps: <b>Soy Henry</b> y <b>Alura Latam - OracleOne.</b></h4>
 
-Estoy en la busqueda de oportunidades en las cuales pueda demostrar y ampliar mis conocimientos como desarrollador FullStack, backend o frontend.
+Estoy en la busqueda de oportunidades para aplicar mis conocimientos, ampliarlos hacia nuevas tecnologias. 
+Me desenvuelvo como desarrollador junior en fullstac, backend o frontend .
 
-<h3>PROYECTOS:</h3>
+<h3>Detalles de mis proyectos:</h3>
 
 - [e-Comm](https://github.com/denisrold/e-comm-withStripe) - FullStack App.
   JS ,NextJS , MongoDB ,Tailwind CSS. Stripe.
