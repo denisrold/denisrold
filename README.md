@@ -6,7 +6,7 @@ Desarrollador de proyectos web,  participe en proyectos individuales y grupales 
 
 <h4>Graduado en bootcamps: <b>Soy Henry</b> y <b>Alura Latam - OracleOne.</b></h4>
 
-Me encuentro actualmente buscando oportunidades para aplicar mis conocimientos, ampliarlos hacia nuevas tecnologias.
+Me encuentro actualmente buscando oportunidades para aplicar mis conocimientos y ampliarlos hacia nuevas tecnologias.
 <br>
 
 Me desenvuelvo como desarrollador junior en fullstack, backend o frontend .
