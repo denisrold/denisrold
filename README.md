@@ -9,7 +9,7 @@ Desarrollador de proyectos web,  participe en proyectos individuales y grupales 
 Me encuentro actualmente buscando oportunidades para aplicar mis conocimientos, ampliarlos hacia nuevas tecnologias.
 <br>
 
-Me desenvuelvo como desarrollador junior en fullstac, backend o frontend .
+Me desenvuelvo como desarrollador junior en fullstack, backend o frontend .
 
 <h3>Detalles de mis proyectos:</h3>
 
