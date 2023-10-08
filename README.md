@@ -14,7 +14,7 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend .
 <h3>Detalles de mis proyectos:</h3>
 
 - [e-Comm (e-commerce)](https://github.com/denisrold/e-comm-withStripe) - FullStack App.
-  JS ,NextJS , MongoDB ,Tailwind CSS. Stripe.
+    JS ,NextJS , MongoDB ,Tailwind CSS. Stripe.
 - [Witter (Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.</br>
     JS ,NextJS , MongoDB ,Tailwind CSS.
   
