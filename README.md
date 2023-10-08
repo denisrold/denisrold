@@ -35,7 +35,7 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend .
     Backend: Java & Spring.
   
 - [React-Chat](https://github.com/denisrold/ReactChat) - FullStack ChatApp.</br>
-   ReactJS, Express, Socket.io y MongoDB.
+   ReactJS, BootStrap, Express, Socket.io y MongoDB.
 
   
 
