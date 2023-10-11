@@ -14,7 +14,7 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend .
 <h3>Detalles de mis proyectos:</h3>
 
 - [myBooking (Airbnb clone)](https://github.com/denisrold/MyBooking) - FullStack App.</br>
-    JS ,Express , MongoDB ,Tailwind CSS.
+    JS ,React, Express , MongoDB ,Tailwind CSS.
 
 - [e-Comm (e-commerce)](https://github.com/denisrold/e-comm-withStripe) - FullStack App.</br>
     JS ,NextJS , MongoDB ,Tailwind CSS. Stripe.
