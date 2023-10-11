@@ -2,9 +2,9 @@
 <h3 align="left">Hola 👋, Soy Denis</h3>
 <h4 align="left">Full Stack Developer</h4>
 
-Desarrollador de proyectos web,  participe en proyectos individuales y grupales con metodologia agil-Scrum.
+Desarrollador de proyectos web con experiencia en proyectos individuales y grupales con metodologia agil-Scrum.
 
-<h4>Graduado en bootcamps: <b>Soy Henry</b> y <b>Alura Latam - OracleOne.</b></h4>
+<h4>Diplomado en bootcamps: <b>Soy Henry</b> y <b>Alura Latam - OracleOne.</b></h4>
 
 Me encuentro actualmente buscando oportunidades para aplicar mis conocimientos y ampliarlos hacia nuevas tecnologias.
 <br>
