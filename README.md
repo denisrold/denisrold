@@ -1,5 +1,5 @@
 
-<h3 align="left">Hola 👋, Soy Denis</h3>
+<h3 align="left">Hola 👋, soy Denis</h3>
 <h4 align="left">Full Stack Developer</h4>
 
 Desarrollador de proyectos web con experiencia en proyectos individuales y grupales con metodologia agil-Scrum.
@@ -23,7 +23,7 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend .
     JS ,NextJS , MongoDB ,Tailwind CSS.
   
 - [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.</br>
-    SpringBoot(Java) MicroServices, Dockers. React Typescript, Ionic. MySQL(GoogleCloud).
+    SpringBoot-Java MicroServices, Dockers. React Typescript, Ionic. MySQL(GoogleCloud).
   
 - [Ugle-GoogleClone](https://github.com/denisrold/Ugle-GoogleClone) - FullStack App</br>
     HTML, CSS , JS, Java-Spring, MySql.
