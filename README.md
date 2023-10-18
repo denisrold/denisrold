@@ -4,7 +4,8 @@
 
 Desarrollador de proyectos web con experiencia en proyectos individuales y grupales con metodologia agil-Scrum.
 
-<h4>Diplomado en bootcamps: <b>Soy Henry</b> y <b>Alura Latam - OracleOne.</b></h4>
+<h4>Diplomado en bootcamp: <b>Soy Henry</b></h4>
+<h4>Diplomado en bootcamp: <b>Alura Latam - OracleOne.</b></h4>
 
 Me encuentro actualmente buscando oportunidades laborales para aplicar mis conocimientos y ampliarlos hacia nuevas tecnologias.
 <br>
