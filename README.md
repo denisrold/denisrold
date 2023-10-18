@@ -1,18 +1,14 @@
 
 <h3 align="left">Hola 👋, soy Denis</h3>
 <h4 align="left">Full Stack Developer</h4>
-
+<br/>
 Desarrollador de proyectos web con experiencia en proyectos individuales y grupales con metodologia agil-Scrum.
 
 <h4>Diplomado en bootcamp: <b>Soy Henry</b></h4>
 <h4>Diplomado en bootcamp: <b>Alura Latam - OracleOne.</b></h4>
 <br/>
-<br/>
-<br/>
 Me encuentro actualmente buscando oportunidades laborales para aplicar mis conocimientos y ampliarlos hacia nuevas tecnologias.
-<br>
-
-Me desenvuelvo como desarrollador junior en fullstack, backend o frontend .
+Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
 
 <h3>Detalles de mis proyectos:</h3>
 
