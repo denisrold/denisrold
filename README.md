@@ -6,7 +6,9 @@ Desarrollador de proyectos web con experiencia en proyectos individuales y grupa
 
 <h4>Diplomado en bootcamp: <b>Soy Henry</b></h4>
 <h4>Diplomado en bootcamp: <b>Alura Latam - OracleOne.</b></h4>
-
+<br/>
+<br/>
+<br/>
 Me encuentro actualmente buscando oportunidades laborales para aplicar mis conocimientos y ampliarlos hacia nuevas tecnologias.
 <br>
 
