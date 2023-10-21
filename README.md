@@ -45,7 +45,7 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
 </br>
  </br>
  Puedes conocer sobre mi en <a href="https://www.linkedin.com/in/denisrold">LinkedIn</a>.
- <h3><a href="mailto:denisroldan.dev@gmail.com">Contactame</a> denisroldan.dev@gmail.com </h3>
+ <h3>Contactame:<a href="mailto:denisroldan.dev@gmail.com">denisroldan.dev@gmail.com </a></h3>
  WhatsApp: <a href="https://api.whatsapp.com/send?phone=3417122685" target="_blank">+54 3417122685</a>
 
 <br/>
