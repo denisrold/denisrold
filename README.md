@@ -6,7 +6,7 @@ Desarrollador de proyectos web con experiencia en proyectos individuales y grupa
 <h4>Diplomado en bootcamp: <b>Soy Henry</b></h4>
 <h4>Diplomado en bootcamp: <b>Alura Latam - OracleOne.</b></h4>
 <br/>
-Me encuentro actualmente buscando oportunidades laborales para aplicar mis conocimientos y ampliarlos hacia nuevas tecnologias.<br/>
+Actualmente busco oportunidades laborales para aplicar mis conocimientos y ampliarlos hacia nuevas tecnologias.<br/>
 Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
 
 <h3>Detalles de mis proyectos:</h3>
@@ -40,13 +40,13 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
 
   
 
-<h3>Actualmente estoy trabajando con JavaScript,TypeScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql.</h3>
+<h3>Actualmente estoy trabajando con JavaScript,TypeScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql, MongoDB.</h3>
 
 </br>
  </br>
  Puedes conocer sobre mi en <a href="https://www.linkedin.com/in/denisrold">LinkedIn</a>.
  <h3><a href="mailto:denisroldan.dev@gmail.com">Contactame</a> denisroldan.dev@gmail.com </h3>
-
+ <a href="https://api.whatsapp.com/send?phone=3417122685" target="_blank">+54 3417122685</a>
 
 <br/>
 
