@@ -11,31 +11,31 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
 
 <h3>Detalles de mis proyectos:</h3>
 
-- [myBooking (Airbnb clone)](https://github.com/denisrold/MyBooking) - FullStack App.</br>
+- [myBooking (Airbnb clone)](https://github.com/denisrold/MyBooking) - FullStack App.
     JS ,React, Express , MongoDB ,Tailwind CSS.
 
-- [e-Comm (e-commerce)](https://github.com/denisrold/e-comm-withStripe) - FullStack App.</br>
+- [e-Comm (e-commerce)](https://github.com/denisrold/e-comm-withStripe) - FullStack App.
     JS ,NextJS , MongoDB ,Tailwind CSS. Stripe.
 
-- [Witter (Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.</br>
+- [Witter (Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.
     JS ,NextJS , MongoDB ,Tailwind CSS.
   
 - [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.</br>
     SpringBoot-Java MicroServices, Dockers. React Typescript, Ionic. MySQL(GoogleCloud).
   
-- [Ugle-GoogleClone](https://github.com/denisrold/Ugle-GoogleClone) - FullStack App</br>
+- [Ugle-GoogleClone](https://github.com/denisrold/Ugle-GoogleClone) - FullStack App
     HTML, CSS , JS, Java-Spring, MySql.
   
-- [RaveMotion](https://github.com/denisrold/RaveMotion_back) - FullStack App.</br>
+- [RaveMotion](https://github.com/denisrold/RaveMotion_back) - FullStack App.
     JS, Express, PostgreSQL, React, Redux, NodeJs , TailWind CSS.
   
-- [PI Countries](https://github.com/denisrold/PI_Countries) - FullStack App.</br>
+- [PI Countries](https://github.com/denisrold/PI_Countries) - FullStack App.
     JS, Express, PostgreSQL, React, Redux, NodeJs, CSS PURO.
   
-- [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API.</br>
+- [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API.
     Backend: Java & Spring.
   
-- [React-Chat](https://github.com/denisrold/ReactChat) - FullStack ChatApp.</br>
+- [React-Chat](https://github.com/denisrold/ReactChat) - FullStack ChatApp.
    ReactJS, BootStrap, Express, Socket.io y MongoDB.
 
   
@@ -44,8 +44,8 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
 
 </br>
  </br>
- Puedes conocer sobre mi en <a href="https://www.linkedin.com/in/denisrold">LinkedIn</a>.
- Contactame: <a href="mailto:denisroldan.dev@gmail.com">denisroldan.dev@gmail.com </a>
+ Puedes conocer sobre mi en <a href="https://www.linkedin.com/in/denisrold">LinkedIn</a>. <br/>
+ Contactame: <a href="mailto:denisroldan.dev@gmail.com">denisroldan.dev@gmail.com </a>  <br/>
  WhatsApp: <a href="https://api.whatsapp.com/send?phone=3417122685" target="_blank">+54 3417122685</a>
 
 <br/>
