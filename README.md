@@ -50,6 +50,5 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
