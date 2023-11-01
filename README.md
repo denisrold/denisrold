@@ -11,34 +11,34 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
 
 <h3>Detalles de mis proyectos:</h3>
 
-- [myBooking (Airbnb clone)](https://github.com/denisrold/MyBooking) - FullStack App.
+- [myBooking (Airbnb clone)](https://github.com/denisrold/MyBooking) - FullStack App.<br/>
     JS ,React, Express , MongoDB ,Tailwind CSS.
 
-- [e-Comm (e-commerce)](https://github.com/denisrold/e-comm-withStripe) - FullStack App.
+- [e-Comm (e-commerce)](https://github.com/denisrold/e-comm-withStripe) - FullStack App.<br/>
     JS ,NextJS , MongoDB ,Tailwind CSS. Stripe.
 
-- [Witter (Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.
+- [Witter (Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.<br/>
     JS ,NextJS , MongoDB ,Tailwind CSS.
   
 - [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.</br>
     SpringBoot-Java MicroServices, Dockers. React Typescript, Ionic. MySQL(GoogleCloud).
   
-- [Ugle-GoogleClone](https://github.com/denisrold/Ugle-GoogleClone) - FullStack App
+- [Ugle-GoogleClone](https://github.com/denisrold/Ugle-GoogleClone) - FullStack App. <br/>
     HTML, CSS , JS, Java-Spring, MySql.
   
-- [RaveMotion](https://github.com/denisrold/RaveMotion_back) - FullStack App.
+- [RaveMotion](https://github.com/denisrold/RaveMotion_back) - FullStack App. <br/>
     JS, Express, PostgreSQL, React, Redux, NodeJs , TailWind CSS.
   
-- [PI Countries](https://github.com/denisrold/PI_Countries) - FullStack App.
+- [PI Countries](https://github.com/denisrold/PI_Countries) - FullStack App. <br/>
     JS, Express, PostgreSQL, React, Redux, NodeJs, CSS PURO.
   
-- [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API.
+- [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API. <br/>
     Backend: Java & Springboot.
   
-- [eGestion](https://github.com/denisrold/e-Gestion) - Fullstack app.
-   BDD:MySql Backend:Api-Rest Java & Springboot. Frontend:HTML-CSS-JS(template).
+- [eGestion](https://github.com/denisrold/e-Gestion) - Fullstack app. <br/>
+   BDD:MySql Backend:Api-Rest Java & Springboot. Frontend:HTML-CSS-JS(template). 
 
-- [React-Chat](https://github.com/denisrold/ReactChat) - FullStack ChatApp.
+- [React-Chat](https://github.com/denisrold/ReactChat) - FullStack ChatApp. <br/>
    ReactJS, BootStrap, Express, Socket.io y MongoDB.
 
   
