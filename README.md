@@ -35,9 +35,6 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
 - [Voll.Med](https://github.com/denisrold/voll.med/tree/master/voll-med/api) - RESTful API. <br/>
     Backend: Java & Springboot.
   
-- [eGestion](https://github.com/denisrold/e-Gestion) - Fullstack app. <br/>
-   BDD: MySql Backend: Api-Rest Java & Springboot. Frontend: HTML-CSS-JS(template). 
-
 - [React-Chat](https://github.com/denisrold/ReactChat) - FullStack ChatApp. <br/>
    ReactJS, BootStrap, Express, Socket.io y MongoDB.
 
