@@ -20,6 +20,9 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
 - [Witter (Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.<br/>
     JS ,NextJS , MongoDB ,Tailwind CSS.
   
+- [Good Dog Studio (Sites-Web)](https://github.com/denisrold/GoodDogSites) - Frontend App.<br/>
+    HTML, JS, CSS, Bootstrap.
+  
 - [eManager](https://github.com/denisrold/eManager-microservice) - FullStack App.</br>
     SpringBoot-Java MicroServices, Dockers. React Typescript, Ionic. MySQL(GoogleCloud).
   
