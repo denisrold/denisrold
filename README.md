@@ -1,5 +1,5 @@
 
-<h3 align="left">Hola 👋, soy Denis</h3>
+<h3 align="left">Hola, soy Denis</h3>
 <h4 align="left">Full Stack Developer</h4>
 Desarrollador de proyectos web con experiencia en proyectos individuales y grupales con metodologia agil-Scrum.
 
