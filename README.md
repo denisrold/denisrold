@@ -1,16 +1,16 @@
 
-<div align="center" margin-bottom="20px">    
+<div align="center">    
 <h1>Hola! soy Denis.</h1>
 <h3 style="margin-bottom: 6px;">Full Stack Developer</h3>
 Desarrollador de proyectos web con experiencia en proyectos individuales y grupales con metodologia agil-Scrum.
 </div>
-<h4>Diplomado en bootcamp: <b>Soy Henry</b></h4>
-<h4>Diplomado en bootcamp: <b>Alura Latam - OracleOne.</b></h4>
-
+<br/>
+<h4>- Diplomado en bootcamp: <b>Soy Henry</b></h4>
+<h4>- Diplomado en bootcamp: <b>Alura Latam - OracleOne.</b></h4>
 <br/>
 Actualmente busco oportunidades laborales para aplicar mis conocimientos y ampliarlos hacia nuevas tecnologias.<br/>
 Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
-
+<br/>
 <h3>Detalles de mis proyectos:</h3>
 
 - [myBooking (Airbnb clone)](https://github.com/denisrold/MyBooking) - FullStack App.<br/>
@@ -44,17 +44,18 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
    ReactJS, BootStrap, Express, Socket.io y MongoDB.
 
   
-
+<br/>
 <h3 >Actualmente estoy trabajando con JavaScript,TypeScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql, MongoDB.</h3>
 
 
  <br/>
+ <br/>
  <div align="center">
- Puedes conocer sobre mi en <a href="https://www.linkedin.com/in/denisrold">LinkedIn</a>. <br/>
+ Puedes conocer sobre mi en <a href="https://www.linkedin.com/in/denisrold" target="_blank">LinkedIn</a>. <br/>
  Contactame: <a href="mailto:denisroldan.dev@gmail.com">denisroldan.dev@gmail.com </a>  <br/>
  WhatsApp: <a href="https://api.whatsapp.com/send?phone=3417122685" target="_blank">+54 3417122685</a>
  </div>
 <br/>
 <br/>
-
-<div align="center"><a href="#">Go Top</a></div>
+<br/>
+<div align="center"><a href="#"> Go Top </a></div>
