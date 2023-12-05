@@ -1,5 +1,5 @@
 
-<div align="center" margin-bottom="20px";">    
+<div align="center" margin-bottom="20px">    
 <h1>Hola! soy Denis.</h1>
 <h3 style="margin-bottom: 6px;">Full Stack Developer</h3>
 Desarrollador de proyectos web con experiencia en proyectos individuales y grupales con metodologia agil-Scrum.
