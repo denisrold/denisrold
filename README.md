@@ -1,7 +1,7 @@
 
-<div align="center">    
-<h3>Hola! soy Denis.</h3>
-<h4>Full Stack Developer</h4>
+<div align="center" style="margin-bottom: 10px;">    
+<h1>Hola! soy Denis.</h1>
+<h3 style="margin-bottom: 6px;">Full Stack Developer</h3>
 Desarrollador de proyectos web con experiencia en proyectos individuales y grupales con metodologia agil-Scrum.
 </div>
 <h4>Diplomado en bootcamp: <b>Soy Henry</b></h4>
@@ -45,11 +45,11 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
 
   
 
-<h3>Actualmente estoy trabajando con JavaScript,TypeScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql, MongoDB.</h3>
+<h3 style="margin-top: 6px;">Actualmente estoy trabajando con JavaScript,TypeScript, Java, React, Redux, Node.js, Express, Spring Boot, mySql, PostgreSql, MongoDB.</h3>
 
 
  <br/>
- <div align="center">
+ <div align="center" style="margin-top: 10px;">
  Puedes conocer sobre mi en <a href="https://www.linkedin.com/in/denisrold">LinkedIn</a>. <br/>
  Contactame: <a href="mailto:denisroldan.dev@gmail.com">denisroldan.dev@gmail.com </a>  <br/>
  WhatsApp: <a href="https://api.whatsapp.com/send?phone=3417122685" target="_blank">+54 3417122685</a>
