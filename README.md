@@ -1,5 +1,21 @@
-
-<div id="#" align="center" style="margin-bottom: 10px;">    
+<head>
+  <style>
+    h1 {
+      margin-bottom: 20px;
+    }
+    h3 {
+      margin-bottom: 10px;
+    }
+    p {
+      margin-bottom: 15px;
+    }
+    h4 {
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<div id="#top" align="center" style="margin-bottom: 10px;">    
 <h1>Hola! soy Denis.</h1>
 <h3 style="margin-bottom: 6px;">Full Stack Developer</h3>
 Desarrollador de proyectos web con experiencia en proyectos individuales y grupales con metodologia agil-Scrum.
@@ -58,3 +74,4 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
 <br/>
 
 <div align="center"><a href="#top">Go Top</a></div>
+</body>
