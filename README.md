@@ -3,7 +3,9 @@
 <h1>Denis H. Roldán</h1>
 <h3 style="margin-bottom: 6px;">Full Stack Developer</h3>
 Desarrollador de proyectos web con experiencia en proyectos individuales y grupales con metodologia agil-Scrum.
-</div>
+
+</div><br/>
+<h3>Portfolio: <a href="https://denisroldan.vercel.app" target="_blank">https://denisroldan.vercel.app</a></h3>
 <br/>
 <h4>- Diplomado en bootcamp: <b>Soy Henry</b></h4>
 <h4>- Diplomado en bootcamp: <b>Alura Latam - OracleOne.</b></h4>
@@ -51,11 +53,10 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
  <br/>
  <br/>
  <div align="center">
+<h1>Contacto:</h1>
  Puedes conocer sobre mi en <a href="https://www.linkedin.com/in/denisrold" target="_blank">LinkedIn</a>. <br/>
- Portfolio: <a href="https://denisroldan.vercel.app" target="_blank">https://denisroldan.vercel.app</a><br/>
  Contactame: <a href="mailto:denisroldan.dev@gmail.com">denisroldan.dev@gmail.com </a>  <br/>
  WhatsApp: <a href="https://api.whatsapp.com/send?phone=3417122685" target="_blank">+54 3417122685</a> 
- 
  </div>
 <br/>
 <br/>
