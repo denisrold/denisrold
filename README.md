@@ -22,7 +22,10 @@ Me desenvuelvo como desarrollador junior en fullstack, backend o frontend.
     JS ,NextJS , MongoDB ,Tailwind CSS. Stripe.
   
 - [Good Dog Studio (Sites-Web)](https://github.com/denisrold/GoodDogSites) - Frontend App.<br/>
-    HTML, JS, CSS, Bootstrap.  
+    HTML, JS, CSS, Bootstrap.
+
+- [Blogguerse (Blogs-app)](https://github.com/denisrold/FullStackOpenHelsinski/tree/master/part7/7.14-7.21) - Fullstack App.<br/>
+     JS,CSS,NodeJs, Express, MongoDb, React, Redux.
 
 - [Witter (Twitter-Clone)](https://github.com/denisrold/Witter) - FullStack App.<br/>
     JS ,NextJS , MongoDB ,Tailwind CSS.
